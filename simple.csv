@@ -256,6 +256,8 @@ label,transliter_kmu210,name,is_uppercase,type,is_alternate,top,bottom,left,righ
 и,y,y,False,italic,False,58,140,69,129,82,60,simple/y-15.png
 и,y,y,False,italic,False,57,141,75,124,84,49,simple/y-16.png
 и,y,y,False,italic,False,66,133,49,149,67,100,simple/y-17.png
+и,y,y,False,italic,False,57,142,70,128,85,58,simple/y-18.png
+и,y,y,False,italic,False,55,144,69,130,89,61,simple/y-19.png
 і,i,i,False,italic,False,74,124,63,135,50,72,simple/i-0.png
 і,i,i,False,italic,False,89,110,55,144,21,89,simple/i-1.png
 і,i,i,False,italic,False,89,110,56,143,21,87,simple/i-2.png
@@ -375,7 +377,6 @@ label,transliter_kmu210,name,is_uppercase,type,is_alternate,top,bottom,left,righ
 м,m,m,False,italic,False,53,146,54,145,93,91,simple/m-16.png
 м,m,m,False,italic,False,41,157,60,139,116,79,simple/m-17.png
 м,m,m,False,italic,False,48,151,58,140,103,82,simple/m-18.png
-м,m,m,False,italic,False,57,142,65,134,85,69,simple/m-19.png
 н,n,n,False,italic,False,67,132,65,134,65,69,simple/n-0.png
 н,n,n,False,italic,False,57,141,60,139,84,79,simple/n-1.png
 н,n,n,False,italic,False,62,136,61,137,74,76,simple/n-2.png
@@ -394,7 +395,6 @@ label,transliter_kmu210,name,is_uppercase,type,is_alternate,top,bottom,left,righ
 н,n,n,False,italic,False,69,129,68,131,60,63,simple/n-15.png
 н,n,n,False,italic,False,67,132,58,141,65,83,simple/n-16.png
 н,n,n,False,italic,False,59,140,63,136,81,73,simple/n-17.png
-н,n,n,False,italic,False,69,129,63,135,60,72,simple/n-18.png
 о,o,o,False,italic,False,71,127,72,127,56,55,simple/o-0.png
 о,o,o,False,italic,False,69,130,62,136,61,74,simple/o-1.png
 о,o,o,False,italic,False,74,125,65,133,51,68,simple/o-2.png
@@ -413,7 +413,6 @@ label,transliter_kmu210,name,is_uppercase,type,is_alternate,top,bottom,left,righ
 о,o,o,False,italic,False,77,121,54,144,44,90,simple/o-15.png
 о,o,o,False,italic,False,79,119,52,146,40,94,simple/o-16.png
 о,o,o,False,italic,False,71,128,46,152,57,106,simple/o-17.png
-о,o,o,False,italic,False,71,128,68,130,57,62,simple/o-18.png
 п,p,p,False,italic,False,74,124,60,138,50,78,simple/p-0.png
 п,p,p,False,italic,False,66,132,53,146,66,93,simple/p-1.png
 п,p,p,False,italic,False,58,140,61,137,82,76,simple/p-2.png
@@ -549,7 +548,6 @@ label,transliter_kmu210,name,is_uppercase,type,is_alternate,top,bottom,left,righ
 х,kh,kh,False,italic,False,49,149,56,143,100,87,simple/kh-18.png
 х,kh,kh,False,italic,False,40,158,60,139,118,79,simple/kh-19.png
 ц,ts,ts,False,italic,False,57,141,44,154,84,110,simple/ts-0.png
-ц,ts,ts,False,italic,False,69,129,52,146,60,94,simple/ts-1.png
 ц,ts,ts,False,italic,False,67,131,47,151,64,104,simple/ts-2.png
 ц,ts,ts,False,italic,False,62,137,41,157,75,116,simple/ts-3.png
 ц,ts,ts,False,italic,False,68,130,46,153,62,107,simple/ts-4.png
@@ -689,9 +687,7 @@ label,transliter_kmu210,name,is_uppercase,type,is_alternate,top,bottom,left,righ
 ц,ts,ts,False,italic,False,41,157,51,147,116,96,simple/ts-18.png
 ц,ts,ts,False,italic,False,48,151,45,153,103,108,simple/ts-19.png
 в,v,v,False,italic,False,72,127,49,150,55,101,simple/v-19.png
-л,l,l,False,italic,False,57,142,70,128,85,58,simple/l-20.png
-л,l,l,False,italic,False,55,144,69,130,89,61,simple/l-21.png
-м,m,m,False,italic,False,53,145,62,136,92,74,simple/m-20.png
+м,m,m,False,italic,False,53,145,62,136,92,74,simple/m-19.png
 н,n,n,False,italic,False,58,140,66,132,82,66,simple/n-19.png
 п,p,p,False,italic,False,60,138,60,138,78,78,simple/p-18.png
 о,o,o,False,italic,False,60,138,69,130,78,61,simple/o-19.png
